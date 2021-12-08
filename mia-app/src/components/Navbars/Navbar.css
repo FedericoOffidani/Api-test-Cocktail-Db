@@ -1,0 +1,46 @@
+.Navbar{
+    background-color:purple;
+    opacity: 0.6;
+
+}
+
+.testoTitolo{
+font-weight: bolder;
+font-size: 2rem!important ;
+
+}
+
+.CocktailRooms{
+    background-color:purple;
+    }
+
+.Under{
+        background-color:blue;
+                }
+
+.testo{
+color: white!important;
+font-size: 1rem!important;
+
+
+}   
+.testo:hover{
+    color:whitesmoke!important;
+    font-size: 3rem!important;
+    
+    } 
+
+.button{
+    background-color: white!important;
+    color: black!important;
+    
+}    
+#test{
+    color: white;
+    font-size: 1rem;
+}   
+#test:hover{
+    color:whitesmoke;
+    font-size: 3rem;
+    
+}
